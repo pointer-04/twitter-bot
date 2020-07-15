@@ -49,7 +49,6 @@ pyparsing==2.4.7
 pyRFC3339==1.1
 pyshark==0.4.2.9
 PySocks==1.7.1
-python-apt==2.0.0
 python-dateutil==2.7.3
 python-debian===0.1.36ubuntu1
 python-jsonrpc-server==0.3.4
