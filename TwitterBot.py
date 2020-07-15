@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import tweepy
-from tkinter import *
+#from tkinter import *
 import os
 from os import environ
 
