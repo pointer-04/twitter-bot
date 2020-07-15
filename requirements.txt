@@ -50,7 +50,6 @@ pyRFC3339==1.1
 pyshark==0.4.2.9
 PySocks==1.7.1
 python-dateutil==2.7.3
-python-debian===0.1.36ubuntu1
 python-jsonrpc-server==0.3.4
 python-language-server==0.34.1
 pytz==2019.3
