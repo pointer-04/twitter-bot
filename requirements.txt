@@ -66,7 +66,6 @@ six==1.14.0
 soupsieve==2.0.1
 systemd-python==234
 tweepy==3.8.0
-ufw==0.36
 ujson==1.35
 unattended-upgrades==0.1
 urllib3==1.25.8
